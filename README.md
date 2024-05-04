@@ -1,4 +1,7 @@
 # Sanat
+---
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Distributed+System+|+Blockchain;Cyber+Security)](https://git.io/typing-svg)
+
 
 <!--
 **s4nat/s4nat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
