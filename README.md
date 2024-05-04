@@ -1,6 +1,6 @@
 # Sanat
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Distributed+System+|+Blockchain;Cyber+Security&center=true)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Distributed+System+|+Blockchain;Cyber+Security&multiline=true&pause=2000)](https://git.io/typing-svg)
 
 
 <!--
