@@ -1,6 +1,29 @@
 # Sanat
 ---
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Distributed+System+|+Blockchain;Cyber+Security&multiline=true&pause=2000)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2000&multiline=true&repeat=false&random=false&width=510&height=150&lines=Software+Engineer;Distributed+Systems+%7C+Blockchain;Cyber+Security)](https://git.io/typing-svg)
+
+---
+# Highlights
+---
+## Distributed Systems
+### DNS on Chord
+### Lamport's Clock
+### Bully Algorithm
+### Distributed Mutual Exclusion
+### IVY File System
+
+---
+## Security
+### Buffer Overflow Exploits
+### Unix Privilege Separation 
+### DNS Kaminsky Attack
+### TCP SYN Flooding
+### 
+
+## Software Engineering
+### MonstyrXAI
+### ByteBass
+### ByteWallet
 
 
 <!--
