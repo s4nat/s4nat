@@ -2,6 +2,8 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2000&multiline=true&repeat=false&random=false&width=510&height=150&lines=Software+Engineer;Distributed+Systems+%7C+Blockchain;Cyber+Security)](https://git.io/typing-svg)
 
+btw I’m currently learning 🌱 rusttt🦀 !!!
+
 ---
 # Highlights
 ---
@@ -12,7 +14,7 @@ Distributed Systems and Computing is the field of study that powers various appl
 
 Below are some of my personal projects in the area of Distributed Systems.
 
-### DNS on Chord
+### [DNS on Chord](https://github.com/s4nat/dns-chord)
 📑[Original Chord Paper](https://example.com/path/to/your/file.pdf)
 
 📑[DNS on Chord Report](https://github.com/s4nat/s4nat/files/15230838/50_041_Distributed_Systems_Project.pdf)
@@ -25,11 +27,21 @@ Some useful features of this protocol:
 - Fingertable which makes the lookup times for a record O(logN)
 
 
-### Lamport's Clock
+### [Lamport's Clock](https://github.com/s4nat/lamport-clocks)
 
+In distributed systems and computing, Lamport's clock is a fundamental concept used to establish a partial ordering of events that occur across multiple nodes without relying on a centralized clock. Lamport's clock assigns timestamps to events in a distributed system to maintain their causal ordering. If event A influences event B, Lamport's clock ensures that the timestamp of A is earlier than that of B. However, if events are concurrent, their timestamps may not follow a specific order.
+
+Lamport's clock is useful for:
+
+- Total ordering of events across distributed nodes
+- Concurrency Control - detect causality violations
 
 ### Bully Algorithm
+The Bully Algorithm is a classic election algorithm used in distributed systems to elect a leader among a group of nodes even in the event of node crashes. In distributed systems, having a single leader is often crucial for coordinating actions and ensuring consistent decision-making. Election algorithms like the Bully Algorithm facilitate the selection of a leader node that can oversee and coordinate the activities of other nodes in the system.
+
 ### Distributed Mutual Exclusion
+
+
 ### IVY File System
 
 ---
@@ -41,7 +53,7 @@ Some useful features of this protocol:
 ### 
 
 ## Software Engineering
-### MonstyrXAI
+### MonstyrXAI 
 ### ByteBass
 ### ByteWallet
 
