@@ -54,8 +54,15 @@ The Bully Algorithm is a classic election algorithm used in distributed systems 
 
 ## Software Engineering
 ### MonstyrXAI 
-### ByteBass
-### ByteWallet
+### [ByteBass](https://github.com/s4nat/bytebass)
+
+📑[ByteBass Presentation](https://github.com/s4nat/s4nat/files/15236518/ByteBass.pdf)
+
+📑[ByteBass Report](https://github.com/s4nat/s4nat/files/15236529/PLC.Report.pdf)
+
+ByteBass is an application written entirely in C which takes bass guitar audio in wav file format and parses it to determine the musical notes being played. The parsed notes are then fed into a Finite State Machine which determine's whether the notes being played follow a musical certain scale or not.
+
+### [ByteWallet](https://github.com/s4nat/digitalWallet)
 
 
 <!--
