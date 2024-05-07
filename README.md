@@ -8,7 +8,7 @@
 ## Distributed Systems
 Distributed Systems and Computing is the field of study that powers various applications such as Blockchains, Cloud Services and P2P applications. It is a paradigm concerned with ensuring consistency, fault tolerance, and efficient communication among distributed components in a network of computing devices. Given below is the summary of the fundamental concepts underpinning this field.  
 
-![Distributed systems concepts](https://github.com/s4nat/s4nat/assets/65476084/7182d41a-e841-4daa-8b7b-685fba7f8e10)
+<img src="https://github.com/s4nat/s4nat/assets/65476084/7182d41a-e841-4daa-8b7b-685fba7f8e10" alt="Distributed systems concepts" width="500" height="400">
 
 
 ### DNS on Chord
