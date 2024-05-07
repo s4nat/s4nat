@@ -10,9 +10,24 @@ Distributed Systems and Computing is the field of study that powers various appl
 
 <img src="https://github.com/s4nat/s4nat/assets/65476084/7182d41a-e841-4daa-8b7b-685fba7f8e10" alt="Distributed systems concepts" width="500" height="400">
 
+Below are some of my personal projects in the area of Distributed Systems.
 
 ### DNS on Chord
+📑[Original Chord Paper](https://example.com/path/to/your/file.pdf)
+
+📑[DNS on Chord Report](https://github.com/s4nat/s4nat/files/15230838/50_041_Distributed_Systems_Project.pdf)
+
+DNS on Chord is a fault tolerant P2P Distributed Hash Table which aims to replace the legacy hierarchical structure of the current DNS network. When a user of DNS on Chord attempts to retrieve DNS records for a particular hostname from the legacy DNS network, it ports over the record to the distributed P2P network where a network participant contributes to hosting the record.
+Some useful features of this protocol:
+- Tolerates planned node departures
+- Tolerates unplanned node deaths (due to replication of the records)
+- Seamless node joins and redistribution of DNS records
+- Fingertable which makes the lookup times for a record O(logN)
+
+
 ### Lamport's Clock
+
+
 ### Bully Algorithm
 ### Distributed Mutual Exclusion
 ### IVY File System
