@@ -36,7 +36,7 @@ Lamport's clock is useful for:
 - Total ordering of events across distributed nodes
 - Concurrency Control - detect causality violations
 
-### Bully Algorithm
+### [Bully Algorithm](https://github.com/s4nat/Bully-Algo)
 The Bully Algorithm is a classic election algorithm used in distributed systems to elect a leader among a group of nodes even in the event of node crashes. In distributed systems, having a single leader is often crucial for coordinating actions and ensuring consistent decision-making. Election algorithms like the Bully Algorithm facilitate the selection of a leader node that can oversee and coordinate the activities of other nodes in the system.
 
 ### Distributed Mutual Exclusion
