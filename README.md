@@ -2,7 +2,6 @@
 ---
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&size=40&duration=2000&multiline=true&repeat=false&random=false&width=510&height=150&lines=Software+Engineer;Distributed+Systems+%7C+Blockchain;Cyber+Security)](https://git.io/typing-svg)
 
-btw I’m currently learning 🌱 rusttt🦀 !!!
 
 ---
 # Highlights
