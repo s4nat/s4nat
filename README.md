@@ -81,9 +81,12 @@ A TCP SYN Flood is a denial-of-service (DoS) attack that exploits TCP's three-wa
 ### 
 
 ## Software Engineering
-### MonstyrXAI 
+### [MonstyrXAI](https://github.com/s4nat/monstyrxai)
+A comprehensive AI solution to automate the slow and tedious processes of a data entry job in a deals aggregation company.
+
 ### [ByteBass](https://github.com/s4nat/bytebass)
 📑[ByteBass Presentation](https://github.com/s4nat/s4nat/files/15236518/ByteBass.pdf)
+
 📑[ByteBass Report](https://github.com/s4nat/s4nat/files/15236529/PLC.Report.pdf)
 
 ByteBass is an application written entirely in C which takes bass guitar audio in wav file format and parses it to determine the musical notes being played. The parsed notes are then fed into a Finite State Machine which determine's whether the notes being played follow a musical certain scale or not.
