@@ -66,12 +66,14 @@ This lab explores privilege separation and Remote Procedure Calls (RPCs) in Linu
 
 ### DNS Kaminsky Attack
 📑[Lab Questions](https://seedsecuritylabs.org/Labs_20.04/Files/DNS_Remote/DNS_Remote.pdf)
+
 📑[Lab Report](https://github.com/user-attachments/files/17743180/DNS.Kaminsky.Attack.Lab.pdf)
 
 Unlike traditional DNS cache poisoning, which targets specific domain names, this attack manipulates the authoritative records for entire domains. The attacker floods a DNS resolver with multiple spoofed responses while simultaneously making requests for random, non-existent subdomains. By exploiting the limited entropy of DNS transaction IDs (16 bits) and source ports, the attacker has a higher probability of successfully injecting malicious DNS records into the resolver's cache. If successful, the attack can redirect legitimate traffic to malicious servers, potentially affecting all users relying on the compromised DNS resolver. This vulnerability led to the rapid deployment of source port randomization and DNSSEC as critical security measures.
 
 ### TCP SYN Flooding
 📑[Lab Questions](https://seedsecuritylabs.org/Labs_20.04/Files/TCP_Attacks/TCP_Attacks.pdf)
+
 📑[Lab Report](https://github.com/user-attachments/files/17743171/TCP.Attacks.Lab.pdf)
 
 A TCP SYN Flood is a denial-of-service (DoS) attack that exploits TCP's three-way handshake mechanism. The attacker sends a flood of TCP SYN packets to the target server, often using spoofed IP addresses. For each SYN packet received, the server responds with a SYN-ACK and reserves resources (like memory buffers) while waiting for the final ACK to complete the handshake. However, since the source addresses are typically spoofed, these ACK packets never arrive. This leads to accumulation of half-open connections, exhausting the server's resources and preventing legitimate users from establishing connections. The server becomes overwhelmed as its connection queue fills up, leading to degraded performance or complete service unavailability.
